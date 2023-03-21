@@ -1,0 +1,5 @@
+# local package
+pandas==1.5.3
+scikit-learn==1.2.1
+setuptools==57.4.0
+sagemaker==2.135.1.post0
